@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"os"
-	"zinx/ziface"
-	"zinx/zlog"
+	"github.com/jfcai/zinx/ziface"
+	"github.com/jfcai/zinx/zlog"
 )
 
 /*
