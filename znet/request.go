@@ -1,6 +1,6 @@
 package znet
 
-import "zinx/ziface"
+import "github.com/jfcai/zinx/ziface"
 
 type Request struct {
 	conn ziface.IConnection //已经和客户端建立好的 链接
